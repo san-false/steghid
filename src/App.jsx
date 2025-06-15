@@ -471,18 +471,18 @@ function App() {
         <div className="footer-content">
           <div className="project-links">
             <div className="links-container">
-              <a 
+{/*               <a 
                 href="https://github.com/Sane-Sunil/Stego-canvas" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="project-link"
               >
-                <span hidden>Source Code</span>
+                <span>Source Code</span>
               </a>
               <a 
                 href="/not-found" 
                 className="project-link"
-              >
+              > */}
                 <img 
                   src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" 
                   alt="Live Demo" 
