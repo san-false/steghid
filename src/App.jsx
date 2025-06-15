@@ -478,11 +478,11 @@ function App() {
                 className="project-link"
               >
                 <span>Source Code</span>
-              </a>
+              </a> */}
               <a 
                 href="/not-found" 
                 className="project-link"
-              > */}
+              >
                 <img 
                   src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" 
                   alt="Live Demo" 
