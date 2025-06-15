@@ -477,7 +477,7 @@ function App() {
                 rel="noopener noreferrer"
                 className="project-link"
               >
-                <span>Source Code</span>
+                <span hidden>Source Code</span>
               </a>
               <a 
                 href="/not-found" 
