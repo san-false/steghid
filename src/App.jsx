@@ -493,12 +493,12 @@ function App() {
           </div>
           <div className="creator-link">
             <a 
-              href="https://github.com/Sane-Sunil/" 
+              href="https://github.com/SanTechBoard/" 
               target="_blank" 
               rel="noopener noreferrer"
             >
               <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" />
-              <span>Sane Sunil</span>
+              <span>SanTechBoard</span>
             </a>
           </div>
         </div>
